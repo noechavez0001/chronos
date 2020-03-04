@@ -1,7 +1,7 @@
 import firebase from 'firebase'
 
 const firebaseConfig = firebase.initializeApp({
-  apiKey: 'AIzaSyCgRgtiD3gyg9vfuoBACVaz4CgjAEv-ezs',
+  apiKey: '',
   authDomain: 'chronos-30774.firebaseapp.com',
   databaseURL: 'https://chronos-30774.firebaseio.com',
   projectId: 'chronos-30774',
